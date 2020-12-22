@@ -5,4 +5,39 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>be919554-7914-4201-8fa5-c44b05b0536c</testCaseGuid>
+   <variable>
+      <defaultValue>'BMT'</defaultValue>
+      <description></description>
+      <id>eed5d125-d8df-4149-9dca-5a2a0f4b2ac5</id>
+      <masked>false</masked>
+      <name>A</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>25321d1f-d01c-4b59-ad11-2e413aca97e0</id>
+      <masked>false</masked>
+      <name>B</name>
+   </variable>
+   <variable>
+      <defaultValue>'vananh'</defaultValue>
+      <description></description>
+      <id>30fccb8c-9fb3-46d1-853e-01d48619d73f</id>
+      <masked>false</masked>
+      <name>C</name>
+   </variable>
+   <variable>
+      <defaultValue>'levananh'</defaultValue>
+      <description></description>
+      <id>901c8f02-3086-46d5-9015-bbb75e8c530a</id>
+      <masked>false</masked>
+      <name>D</name>
+   </variable>
+   <variable>
+      <defaultValue>'nhanvien'</defaultValue>
+      <description></description>
+      <id>0360fcf8-816c-404b-bacb-e709726a1b1e</id>
+      <masked>false</masked>
+      <name>E</name>
+   </variable>
 </TestCaseEntity>

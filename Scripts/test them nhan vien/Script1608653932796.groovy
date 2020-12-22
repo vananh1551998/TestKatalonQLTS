@@ -20,19 +20,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:41237/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), 'BMT')
+WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), A)
 
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), '12345')
+WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), B)
 
 WebUI.click(findTestObject('Object Repository/Page_Trang Ch/p_Danh Sch Nhn Vin'))
 
 WebUI.click(findTestObject('Object Repository/Page_Nhn Vin/a_Thm mi'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_UserName_UserName'), 'vananh')
+WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_UserName_UserName'), C)
 
-WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_Tn y _FullName'), 'levananh')
+WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_Tn y _FullName'), D)
 
-WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_V Tr_Position'), 'nhanvien')
+WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_V Tr_Position'), E)
 
 WebUI.closeBrowser()
 
