@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Mt Khu_Password</name>
+   <name>input_Tn Ngi Dng_UserName</name>
    <tag></tag>
-   <elementGuidId>5c458368-2829-4a98-906e-fb4477294929</elementGuidId>
+   <elementGuidId>cc555116-fb14-40d7-97d7-f4b8cd64d871</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='Password']</value>
+         <value>//input[@id='UserName']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#Password</value>
+         <value>#UserName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -42,48 +42,48 @@
       <matchCondition>equals</matchCondition>
       <name>data-val-required</name>
       <type>Main</type>
-      <value>Bạn phải nhập mật khẩu</value>
+      <value>Bạn phải nhập tài khoản</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>Password</value>
+      <value>UserName</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>Password</value>
+      <value>UserName</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
+      <value>text</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Password&quot;)</value>
+      <value>id(&quot;UserName&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='Password']</value>
+      <value>//input[@id='UserName']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
+      <value>//div/input</value>
    </webElementXpaths>
 </WebElementEntity>
