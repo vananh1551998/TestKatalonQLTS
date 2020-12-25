@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Danh Sch Nhn Vin</name>
+   <name>p_Phng Ban</name>
    <tag></tag>
-   <elementGuidId>5de848be-3bad-44be-a57b-0abebc88247c</elementGuidId>
+   <elementGuidId>fe244d96-b90f-428d-90b6-c40b46a8c310</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/section/div/div/section/div/div[2]/div/a/section/div[2]/p</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//section[@id='main-content']/section/div/div/section/div/div[2]/div[3]/a/section/div[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Danh Sách Nhân Viên</value>
+      <value>Phòng Ban</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,34 +42,34 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='main-content']/section/div/div/section/div/div[2]/div[3]/a/section/div[2]/p</value>
+      <value>//section[@id='main-content']/section/div/div/section/div/div[2]/div/a/section/div[2]/p</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phần mềm quản lý thiết bị công ty Đông Kinh .'])[1]/following::p[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phần mềm quản lý thiết bị công ty Đông Kinh .'])[1]/following::p[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng Xuất'])[1]/following::p[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng Xuất'])[1]/following::p[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Danh Sách Nhân Viên']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Phòng Ban']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[3]/a/section/div[2]/p</value>
+      <value>//div[2]/div/a/section/div[2]/p</value>
    </webElementXpaths>
 </WebElementEntity>

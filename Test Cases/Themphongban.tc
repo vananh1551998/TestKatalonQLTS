@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test them nhan vien</name>
+   <name>Themphongban</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>be919554-7914-4201-8fa5-c44b05b0536c</testCaseGuid>
+   <testCaseGuid>5cdf3fa1-5e39-4950-90b6-a43b38fbbb3a</testCaseGuid>
    <variable>
       <defaultValue>'BMT'</defaultValue>
       <description></description>
-      <id>eed5d125-d8df-4149-9dca-5a2a0f4b2ac5</id>
+      <id>40dda0bc-a4a7-4fb7-a2c9-d1db9fc8c608</id>
       <masked>false</masked>
-      <name>A</name>
+      <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'12345'</defaultValue>
       <description></description>
-      <id>25321d1f-d01c-4b59-ad11-2e413aca97e0</id>
+      <id>0361271a-72be-4a3b-9163-c9dc1a867417</id>
       <masked>false</masked>
-      <name>B</name>
+      <name>Password</name>
    </variable>
    <variable>
-      <defaultValue>'vananh'</defaultValue>
+      <defaultValue>'SS03'</defaultValue>
       <description></description>
-      <id>30fccb8c-9fb3-46d1-853e-01d48619d73f</id>
+      <id>12a0615d-c0c3-473b-bf6c-9d661978dbb4</id>
       <masked>false</masked>
-      <name>C</name>
+      <name>Maphong</name>
    </variable>
    <variable>
-      <defaultValue>'levananh'</defaultValue>
+      <defaultValue>'Phòng Nhân Sự '</defaultValue>
       <description></description>
-      <id>901c8f02-3086-46d5-9015-bbb75e8c530a</id>
+      <id>43cc9587-7047-4644-b35c-ef4bdd76a640</id>
       <masked>false</masked>
-      <name>D</name>
+      <name>Tenphong</name>
    </variable>
    <variable>
-      <defaultValue>'nhanvien'</defaultValue>
+      <defaultValue>'Tầng 11 Fabbi Hà Nội'</defaultValue>
       <description></description>
-      <id>0360fcf8-816c-404b-bacb-e709726a1b1e</id>
+      <id>1866f103-f8d9-4aad-9f90-161c4598ee46</id>
       <masked>false</masked>
-      <name>E</name>
+      <name>Diachi</name>
    </variable>
 </TestCaseEntity>

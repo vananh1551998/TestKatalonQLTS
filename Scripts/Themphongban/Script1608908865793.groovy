@@ -20,19 +20,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:41237/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), A)
+WebUI.setText(findTestObject('Object Repository/Themphongban1/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), Username)
 
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), B)
+WebUI.setText(findTestObject('Object Repository/Themphongban1/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), Password)
 
-WebUI.click(findTestObject('Object Repository/Page_Trang Ch/p_Danh Sch Nhn Vin'))
+WebUI.click(findTestObject('Object Repository/Themphongban1/Page_Qun L Ti Sn DKC/button_ng Nhp'))
 
-WebUI.click(findTestObject('Object Repository/Page_Nhn Vin/a_Thm mi'))
+WebUI.click(findTestObject('Object Repository/Themphongban1/Page_Trang Ch/p_Phng Ban'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_UserName_UserName'), C)
+WebUI.click(findTestObject('Object Repository/Themphongban1/Page_Danh sch phng ban/a_Thm'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_Tn y _FullName'), D)
+WebUI.setText(findTestObject('Object Repository/Themphongban1/Page_Thm phng mi/input__ProjectSymbol'), Maphong)
 
-WebUI.setText(findTestObject('Object Repository/Page_Thm Nhn Vin/input_V Tr_Position'), E)
+WebUI.setText(findTestObject('Object Repository/Themphongban1/Page_Thm phng mi/input__ProjectName'), Tenphong)
+
+WebUI.setText(findTestObject('Object Repository/Themphongban1/Page_Thm phng mi/textarea_a ch_Address'), Diachi)
+
+WebUI.click(findTestObject('Object Repository/Themphongban1/Page_Thm phng mi/button_Lu phng'))
 
 WebUI.closeBrowser()
 

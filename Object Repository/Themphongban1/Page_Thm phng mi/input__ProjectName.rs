@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_V Tr_Position</name>
+   <name>input__ProjectName</name>
    <tag></tag>
-   <elementGuidId>12e6d911-fbd2-4f99-8f5e-17e7737ca07e</elementGuidId>
+   <elementGuidId>cd35a7fe-4aa8-433c-9414-b64e988c8c7d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;Position&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@id='ProjectName']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='Position']</value>
+         <key>CSS</key>
+         <value>#ProjectName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,6 +24,13 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-large myctr </value>
+   </webElementProperties>
+   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
@@ -31,45 +38,59 @@
       <value>text</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>form-control myctr form</value>
+      <value>Tên phòng</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>Position</value>
+      <value>ProjectName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ProjectName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-content&quot;)/section[@class=&quot;wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/section[@class=&quot;panel&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group m-bot15 clearfix&quot;]/div[@class=&quot;col-md-8&quot;]/input[@class=&quot;form-control myctr form&quot;]</value>
+      <value>id(&quot;ProjectName&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='Position']</value>
+      <value>//input[@id='ProjectName']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='main-content']/section/div/div/section/form/div/div[2]/div[2]/div/input</value>
+      <value>//form[@id='formIdPr']/div/div/div[2]/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/input</value>
+      <value>//div[2]/div/input</value>
    </webElementXpaths>
 </WebElementEntity>
