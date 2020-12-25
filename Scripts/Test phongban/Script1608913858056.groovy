@@ -30,11 +30,11 @@ WebUI.click(findTestObject('Object Repository/Themphongban/Page_Trang Ch/p_Phng 
 
 WebUI.click(findTestObject('Object Repository/Themphongban/Page_Danh sch phng ban/a_Thm'))
 
-WebUI.setText(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/input__ProjectSymbol'), 'SS05')
+WebUI.setText(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/input__ProjectSymbol'), Maphong)
 
-WebUI.setText(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/input__ProjectName'), 'Phòng kinh doanh ')
+WebUI.setText(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/input__ProjectName'), Tenphong)
 
-WebUI.setText(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/textarea_a ch_Address'), 'Fabbi Hà Nội ')
+WebUI.setText(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/textarea_a ch_Address'), Diachi)
 
 WebUI.click(findTestObject('Object Repository/Themphongban/Page_Thm phng mi/button_Lu phng'))
 

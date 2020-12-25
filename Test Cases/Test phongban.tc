@@ -6,14 +6,14 @@
    <comment></comment>
    <testCaseGuid>f634573e-3ac1-49b8-9858-f6ce5c19d4d4</testCaseGuid>
    <variable>
-      <defaultValue>'SS05'</defaultValue>
+      <defaultValue>'SS06'</defaultValue>
       <description></description>
       <id>feafc4d6-b592-416f-93f4-a8419dc7ef2c</id>
       <masked>false</masked>
       <name>Maphong</name>
    </variable>
    <variable>
-      <defaultValue>'Phongkinhdoanh'</defaultValue>
+      <defaultValue>'Phòng kế toán'</defaultValue>
       <description></description>
       <id>a7376b9d-60dd-40b7-8a8d-f6db1eac2f20</id>
       <masked>false</masked>
