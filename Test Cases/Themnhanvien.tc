@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Themnhanvien</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>397d748a-ff78-4925-8978-9b55a4dc0589</testCaseGuid>
+   <variable>
+      <defaultValue>'Vân Anh '</defaultValue>
+      <description></description>
+      <id>51c294dc-c483-45e1-a373-7a2610a0bc37</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lê Thị Vân Anh '</defaultValue>
+      <description></description>
+      <id>3b06158e-127a-4313-8406-4d058cbd8f6d</id>
+      <masked>false</masked>
+      <name>Fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Vananh@gmail.com'</defaultValue>
+      <description></description>
+      <id>30fa424e-2356-4b31-8b11-5af57402a826</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0987678987'</defaultValue>
+      <description></description>
+      <id>e86e1744-7a4e-4731-9015-9789b501b334</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hà Nội'</defaultValue>
+      <description></description>
+      <id>2501ed0a-0a6f-4129-8a32-771d8784891d</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hành Chính'</defaultValue>
+      <description></description>
+      <id>5fd3bead-01cb-47c5-94d8-8825f4d31591</id>
+      <masked>false</masked>
+      <name>Departmend</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nhân Viên '</defaultValue>
+      <description></description>
+      <id>4a890655-3319-485c-a941-275160488946</id>
+      <masked>false</masked>
+      <name>Position</name>
+   </variable>
+</TestCaseEntity>
